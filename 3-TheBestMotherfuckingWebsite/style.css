@@ -1,0 +1,111 @@
+body{
+    
+    font-family:Open Sans,Arial;
+    font-size:16px;
+    margin:2em auto;
+    max-width:800px;
+    padding:1em;
+    line-height:1.4;
+    text-align:justify;
+    
+    
+    
+    background-color: black;
+    color: #D9D9D9;
+    
+}
+
+
+.mfw{
+    color: #B00000;
+}
+
+.wr{
+    color: #D24637;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a {
+  color: #00A2E7;
+}
+
+a:visited {
+    color:#ca1a70;
+}
+
+small{
+    font-size: 0.4em;
+}
+
+.colors{
+    color: greenyellow;
+}
+
+.shittyblue{
+    color: 0000EE;
+}
+
+
+.violetish{
+    color: #551a8b;
+}
+
+.fakepre{
+    font-family: monospace;
+    font-size: 0.9em;
+}
+
+.foufoufou{
+    color: #444;
+    font-weight: 700;
+    
+    
+}
+
+.foufivfoufivfoufiv{
+    color: #454545;
+    font-weight: 700;
+}
+
+
+
+.fancyPositioning{
+    width: 280px;
+
+    
+}
+
+.chat{
+    width: 170px;
+}
+
+
+.tleft{
+    
+}
+
+
+figcaption{
+    font-size: 0.7em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
